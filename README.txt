@@ -1,7 +1,5 @@
-OOP Assignment3 
-ID: 19234222
-Name: Mohamed Yaser Babukhan 
-=====================================================================
+A simple average score calculator GUI built with Java and Java Swing
+
 
 Main (in CricketMatchApp) can be found in the following path:
 
